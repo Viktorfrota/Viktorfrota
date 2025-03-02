@@ -12,36 +12,35 @@ Iniciante em programação/desenvolvimento de software
   <img align="center" alt="Viktorfrota-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-Sobre Mim
+Sobre Mim</br>
 Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Cresci nesse meio e, atualmente, estou iniciando minha jornada no desenvolvimento de software, principalmente na area de backend, na qual quero me especializar. Estou sempre disposto a aprender e colaborar com projetos que contribuam para meu crescimento profissional e pessoal.
 
-📍 Localização: Fortaleza, CE, Brasil
-🌱 Aprendizado atual: Explorando novas linguagens e ferramentas de desenvolvimento
-💬 Fale comigo sobre: Tecnologia, estudos e experiências em programação
-📫 Onde me encontrar:
-Instagram (@viktorfrota) • LinkedIn
-Meus Projetos
-Confira alguns dos meus repositórios:
+📍 Localização: Fortaleza, CE, Brasil</br>
+🌱 Aprendizado atual: Explorando java e suas frameworks</br>
+💬 Fale comigo sobre: Tecnologia, estudos, experiências em programação e sobre HardWare</br>
 
-SPOTIFY-CLONE
-Um projeto que recria a interface do Spotify utilizando HTML, CSS e JavaScript.
+Meus Projetos</br>
+Confira alguns dos meus repositórios:</br>
+</br>
+SPOTIFY-CLONE</br>
+Um projeto que recria a interface do Spotify utilizando HTML, CSS e JavaScript.</br>
 
-Estudos
-Repositório onde compartilho meus estudos, experimentos e anotações sobre tecnologia.
+Estudos</br>
+Repositório onde compartilho meus estudos, experimentos e anotações sobre tecnologia.</br>
 
-ProjetoJogoDoChute
-Um projeto para testar minha lógica de programação, desenvolvido com JS.
+ProjetoJogoDoChute</br>
+Um projeto para testar minha lógica de programação, desenvolvido com JS.</br>
 
-Sinta-se à vontade para explorar meus repositórios e contribuir com feedbacks ou colaborações.
+Sinta-se à vontade para explorar meus repositórios e contribuir com feedbacks ou colaborações.</br>
 
 Tecnologias e Ferramentas
-Atualmente, estou aprofundando meus conhecimentos em:
+Atualmente, estou aprofundando meus conhecimentos em:</br>
 
-Web: HTML, CSS e JavaScript
-Back: Java,
-(Outras tecnologias serão adicionadas conforme avanço nos estudos)
-Contato
-Se você deseja trocar ideias, colaborar ou apenas conversar sobre tecnologia, me envie uma mensagem através das redes:
+Web: HTML, CSS e JavaScript</br>
+Back: Java</br>
+(Outras tecnologias serão adicionadas conforme avanço nos estudos)</br>
+Contato</br>
+Se você deseja trocar ideias, colaborar ou apenas conversar sobre tecnologia, me envie uma mensagem através das redes:</br>
 
-Instagram: @viktorfrota
+Instagram: @viktorfrota</br>
 LinkedIn: Guilherme Victor Bezerra Frota
