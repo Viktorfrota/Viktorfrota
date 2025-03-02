@@ -19,18 +19,6 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Cr
 🌱 Aprendizado atual: Explorando java e suas frameworks</br>
 💬 Fale comigo sobre: Tecnologia, estudos, experiências em programação e sobre HardWare</br>
 
-Meus Projetos</br>
-Confira alguns dos meus repositórios:</br>
-</br>
-SPOTIFY-CLONE</br>
-Um projeto que recria a interface do Spotify utilizando HTML, CSS e JavaScript.</br>
-
-Estudos</br>
-Repositório onde compartilho meus estudos, experimentos e anotações sobre tecnologia.</br>
-
-ProjetoJogoDoChute</br>
-Um projeto para testar minha lógica de programação, desenvolvido com JS.</br>
-
 Sinta-se à vontade para explorar meus repositórios e contribuir com feedbacks ou colaborações.</br>
 
 Tecnologias e Ferramentas
