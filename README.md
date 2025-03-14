@@ -13,7 +13,7 @@ Iniciante em programação/desenvolvimento de software
 </div>
 
 Sobre Mim</br>
-Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos. Cresci nesse meio e, atualmente, estou iniciando minha jornada no desenvolvimento de software, principalmente na area de backend, na qual quero me especializar. Estou sempre disposto a aprender e colaborar com projetos que contribuam para meu crescimento profissional e pessoal.
+apaixonado por tecnologia, estou sempre em busca de novos conhecimentos. Cresci nesse meio e, atualmente, estou iniciando minha jornada no desenvolvimento de software, principalmente na area de backend, na qual quero me especializar. Estou sempre disposto a aprender e colaborar com projetos que contribuam para meu crescimento profissional e pessoal.
 
 📍 Localização: Fortaleza, CE, Brasil</br>
 🌱 Aprendizado atual: Explorando java e suas frameworks</br>
